@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/coda](https://draculatheme.co
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/coda/graphs/contributors).
 
 [![Brian Tkatch](https://avatars0.githubusercontent.com/u/10686291?v=3&s=70)](https://github.com/defectivebit) |
 --- | ---
