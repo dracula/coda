@@ -2,7 +2,7 @@
 
 > A dark theme for [Coda](http://panic.com/coda).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/coda.png)
+![Screenshot](https://raw.githubusercontent.com/defectivebit/coda/master/screenshot.png)
 
 ## Install
 
