@@ -2,11 +2,11 @@
 
 > A dark theme for [Coda](http://panic.com/coda).
 
-![Screenshot](https://raw.githubusercontent.com/dracula/coda/master/screenshot.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/coda.png)
 
 ## Install
 
-> TODO - sent a pull request
+All instructions can be found at [draculatheme.com/coda](https://draculatheme.com/coda).
 
 ## Team
 
