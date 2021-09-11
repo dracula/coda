@@ -8,11 +8,11 @@ Head over to the Panic website for the [one-click install](https://panic.com/cod
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/coda.git
+    git clone https://github.com/dracula/coda.git
 
 And creating a symbolic link to Coda's theme folder:
 
-    $ ln -s coda/Dracula.sss ~/Library/Application Support/Coda 2/Styles/Dracula.sss
+    ln -s coda/Dracula.sss ~/Library/Application Support/Coda 2/Styles/Dracula.sss
 
 #### Install manually
 
